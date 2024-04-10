@@ -1,6 +1,6 @@
 package Clase5;
 
-public class Main {
+public class TrabajoClase4 {
     public static void main(String[] args) {
         System.out.println(TipoProducto.CELULARES);
         System.out.println(TipoProducto.HOGAR);
